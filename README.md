@@ -10,7 +10,7 @@
 A simple sectoral menu for multiple submenus
 
 ## Demo
-![-](секторальне_меню_1.jpg)
+![-](sectoral_menu_1.jpg)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
