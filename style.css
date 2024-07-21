@@ -40,6 +40,7 @@
     --padding-percen: 1.5%;
     --margin-05-rem: 0.5rem;
     --width-img: 25%;
+    --orange: hsl(31, 100%, 70%);
 }
 
 
@@ -51,7 +52,7 @@ html, body {
 
 
 body {
-    background: #17a2b8;
+    background-color: var(--orange);
     font-family: var(--bs-font-sans-serif-poppins);
     line-height: 1.5;
     display: flex;
